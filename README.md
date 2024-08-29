@@ -103,6 +103,9 @@ __game files description ends here__
 				 but was allready too far off with the idea presented in this version,
 				 so a reimplementation in a 2.0 version, maybe?) 
 
+
+  				Path to Love2d engine must be set up before testing the game.
+
 				
 				
 				
